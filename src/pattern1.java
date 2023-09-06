@@ -7,6 +7,7 @@ public class pattern1 {
                 System.out.print("*");
             }
             System.out.println();
+            // pattern 1 gfg
         }
     }
 
