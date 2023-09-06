@@ -1,6 +1,6 @@
 
 
-class pattern2 {
+class pattern1 {
 
     void printTriangle(int n) {
 
