@@ -5,7 +5,7 @@ public class aliceapple
     {
         Scanner sc = new Scanner(System.in);
         int apple = sc.nextInt();
-        int cnt =0,sum=0;
+        int cnt =0,sum=0; // cnt current count of rectangle and sum represent number of apples in the current rectangle
         while (sum<apple)
         {
             cnt++;
